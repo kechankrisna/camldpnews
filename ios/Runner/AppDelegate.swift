@@ -9,7 +9,7 @@ import GoogleMobileAds
     _ application: UIApplication,
     didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?
   ) -> Bool {
-    GMSServices.provideAPIKey("AIzaSyDk1KyXppUjwZgH3vM76dh1voVqqo7Io1s")
+    GMSServices.provideAPIKey("YOUR_MAP_API")
     GADMobileAds.sharedInstance().start(completionHandler: nil)
     GeneratedPluginRegistrant.register(with: self)
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
