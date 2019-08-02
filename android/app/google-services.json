@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "660680876124",
+    "firebase_url": "https://camldpnews-1560269841862.firebaseio.com",
+    "project_id": "camldpnews-1560269841862",
+    "storage_bucket": "camldpnews-1560269841862.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660680876124:android:716be847a1a5635b",
+        "android_client_info": {
+          "package_name": "com.org.camdlp.camldpnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660680876124-ejp3fa7bsnd7ul3l7tr5u1i9eudi1ir2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhJtoxPs0jHgntaY4MjrrmHGogXY0svrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660680876124-ejp3fa7bsnd7ul3l7tr5u1i9eudi1ir2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
