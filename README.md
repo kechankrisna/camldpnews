@@ -8,6 +8,8 @@ This project was created in order to get the latest post from website https://ne
 
 > - make sure you have installed flutter on your machine
 > - if not, please go to https://flutter.dev and follow instruction to install
+> - go to android/app/src/AndroidManifest.xml and relace YOUR_MAP_API with your real google map api
+> - all configuration files are located in lib/app.dart, please replace those url and anything else with your own business.
 
 ## Getting Started
 
