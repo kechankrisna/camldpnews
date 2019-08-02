@@ -21,8 +21,8 @@ This project was created in order to get the latest post from website https://ne
 
 ## ScreenShort
 
-[!Screenshort 1] (https://raw.githubusercontent.com/kechankrisna/camldpnews/master/screens/screenshort1.png)
-[!Screenshort 2] (https://raw.githubusercontent.com/kechankrisna/camldpnews/master/screens/screenshort2.png)
-[!Screenshort 3] (https://raw.githubusercontent.com/kechankrisna/camldpnews/master/screens/screenshort3.png)
-[!Screenshort 4] (https://raw.githubusercontent.com/kechankrisna/camldpnews/master/screens/screenshort4.png)
-[!Screenshort 5] (https://raw.githubusercontent.com/kechankrisna/camldpnews/master/screens/screenshort5.png)
+![Screenshort 1] (https://raw.githubusercontent.com/kechankrisna/camldpnews/master/screens/screenshort1.png)
+![Screenshort 2] (https://raw.githubusercontent.com/kechankrisna/camldpnews/master/screens/screenshort2.png)
+![Screenshort 3] (https://raw.githubusercontent.com/kechankrisna/camldpnews/master/screens/screenshort3.png)
+![Screenshort 4] (https://raw.githubusercontent.com/kechankrisna/camldpnews/master/screens/screenshort4.png)
+![Screenshort 5] (https://raw.githubusercontent.com/kechankrisna/camldpnews/master/screens/screenshort5.png)
